@@ -1,0 +1,15 @@
+.animal {
+    color: red; 
+    font-weight: bold; 
+}
+.phrase{
+    font-style: italic;
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h1{
+    font-variant-caps: small-caps;
+}
